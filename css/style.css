@@ -1,0 +1,27 @@
+body{
+	height: 100vh;
+	background-color: hsl(27, 66%, 92%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#cover {
+	width: 520px;
+	height: auto;
+}
+
+#balance{
+	height: 120px;
+	background-color: hsl(10, 79%, 65%);
+	color:white;
+}
+
+#graph{
+	max-height: 500px; 
+	background-color: white;
+
+}
+
+@media (max-width:991px) {
+	
+}
